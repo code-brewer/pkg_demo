@@ -1,0 +1,16 @@
+{
+  "name": "listent_new_block",
+  "version": "1.0.0",
+  "description": "",
+  "main": "simple_transfer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@polkadot/api": "^4.12.1",
+    "@polkadot/keyring": "^6.6.1"
+  }
+}
